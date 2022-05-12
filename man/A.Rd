@@ -1,0 +1,16 @@
+\name{A}
+\docType{data}
+\alias{A}
+\alias{B}
+\alias{C}
+\title{Examples of textured images}
+\description{A, B, and C are examples of different textured images 
+(grayscale). Each matrix object contains an image. Each entry of the 
+matrix contains an image intentsity value.}
+\usage{data(textures)}
+\format{Matricies of varying sizes which each contain a textured image}
+\references{ 
+Eckley, I.A. and Nason, G.P. (2011). LS2W: Implementing the Locally Stationary 2D Wavelet Process Approach in R, Journal of Statistical Software, 43(3), 1-23.
+URL http://www.jstatsoft.org/v43/i03/.
+}
+\keyword{datasets}
