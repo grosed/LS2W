@@ -27,7 +27,6 @@ A matrix, of dimension determined by the original data set supplied to the initi
 \section{RELEASE}{Version 3.5.3 Copyright Guy Nason 1994 }
 \seealso{
 \code{\link[wavethresh]{imwd}}, \code{\link[wavethresh]{imwd.object}}, \code{\link[wavethresh]imwr}}. 
-}
 \examples{
 #
 # Do a decomposition, then exact reconstruction
