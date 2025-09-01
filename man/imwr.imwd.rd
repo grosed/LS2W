@@ -22,11 +22,11 @@ Details of the algorithm are to be found in Mallat (1989). Similarly to the deco
 This function is a method for the generic function \code{\link[wavethresh]{imwr}} for class \code{\link[wavethresh]{imwd.object}}. It can be invoked by calling \code{\link[wavethresh]{imwr}} for an object of the appropriate class, or directly by calling imwr.imwd regardless of the class of the object. 
 }
 \value{
-A matrix, of dimension determined by the original data set supplied to the initial decomposition (more precisely, determined by the \code{\link[wavethresh]{nlevels}} component of the \code{\link[wavethresh]{imwd.object}}). This matrix is the highest resolution level of the reconstruction. If a \code{\link[wavethresh]{imwd}} two-dimensional wavelet transform is followed immediately by a \code{\link[wavethresh]{imwr}} inverse two-dimensional wavelet transform then the returned matrix will be exactly the same as the original image. 
+A matrix, of dimension determined by the original data set supplied to the initial decomposition (more precisely, determined by the \code{nlevels} component of the \code{\link[wavethresh]{imwd.object}}). This matrix is the highest resolution level of the reconstruction. If a \code{\link[wavethresh]{imwd}} two-dimensional wavelet transform is followed immediately by a \code{\link[wavethresh]{imwr}} inverse two-dimensional wavelet transform then the returned matrix will be exactly the same as the original image. 
 }
 \section{RELEASE}{Version 3.5.3 Copyright Guy Nason 1994 }
 \seealso{
-\code{\link[wavethresh]{imwd}}, \code{\link[wavethresh]{imwd.object}}, \code{\link[wavethresh]{imwr}}. 
+\code{\link[wavethresh]{imwd}}, \code{\link[wavethresh]{imwd.object}}, \code{\link[wavethresh]imwr}}. 
 }
 \examples{
 #
