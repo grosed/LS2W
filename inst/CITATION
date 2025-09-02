@@ -11,10 +11,23 @@ citEntry(entry = "Article",
   pages        = "1--23",
   url          = "https://www.jstatsoft.org/v43/i03/",
 
-  textVersion  =
-  paste("Eckley, I.A.  and  Nason, G.P. (2011).",
-        "LS2W: Implementing the Locally Stationary 2D Wavelet Process Approach in R.",
-        "Journal of Statistical Software, 43(3), 1-23.",
-        "URL https://www.jstatsoft.org/v43/i03/.")
+
+)
+
+
+bibentry(bibtype = "Article",
+title = "{LS2W}: Implementing the Locally Stationary {2D} Wavelet Process Approach in {R}",
+author = c(person(given = "I.A.",family = "Eckley"), person(given = "G.P.",family = "Nason")),
+journal = "Journal of Statistical Software",
+year = "2011",
+volume = "43",
+number = "3",
+pages = "1--23",
+doi = "10.18637/jss.v043.i03",
+header = "To cite LS2W in publications use:"
+textVersion  = paste("Eckley, I.A.  and  Nason, G.P. (2011).",
+                     "LS2W: Implementing the Locally Stationary 2D Wavelet Process Approach in R.",
+                     "Journal of Statistical Software, 43(3), 1-23.",
+                     "URL https://www.jstatsoft.org/v43/i03/.")
 )
 
