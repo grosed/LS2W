@@ -7,7 +7,7 @@ Authors@R: c(person("Idris","Eckley",role=c("aut","cre"), email="dan.grose@lanca
 			person("Guy","Nason",role="aut", email="g.p.nason@bristol.ac.uk"),
 			person("Sarah", "Taylor", role="ctb", email="s.taylor14@lancaster.ac.uk"),
 			person("Matthew", "Nunes", role="ctb",email="m.nunes@lancaster.ac.uk")) 
-Maintainer: Idris Eckley <i.eckley@lancaster.ac.uk>
+Maintainer: Idris Eckley <dan.grose@lancaster.ac.uk>
 Depends: R (>= 3.0), wavethresh (>= 4.5)
 Imports: MASS,methods
 Description: Estimates two-dimensional local wavelet spectra.
