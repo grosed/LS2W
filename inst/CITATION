@@ -1,20 +1,3 @@
-citHeader("To cite LS2W in publications use:")
-
-citEntry(entry = "Article",
-  title        = "{LS2W}: Implementing the Locally Stationary {2D} Wavelet Process Approach in {R}",
-  author       = personList(as.person("Eckley, I.A."),
-                   as.person("Nason, G.P.")),
-  journal      = "Journal of Statistical Software",
-  year         = "2011",
-  volume       = "43",
-  number       = "3",
-  pages        = "1--23",
-  url          = "https://www.jstatsoft.org/v43/i03/",
-
-
-)
-
-
 bibentry(bibtype = "Article",
 title = "{LS2W}: Implementing the Locally Stationary {2D} Wavelet Process Approach in {R}",
 author = c(person(given = "I.A.",family = "Eckley"), person(given = "G.P.",family = "Nason")),
